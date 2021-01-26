@@ -5,7 +5,7 @@
 # Bruno Falsarella
 <sub>*Estudante de Data Science</sub>
 
-Formado em Ciências Econômicas, atualmente estudando Data Science para transição de carreira.
+Formado em Ciências Econômicas, atualmente estudo Data Science para transição de carreira.
 
 **Estudos em:** Python, Pandas, Estatística, Machine Learning, etc...
 
