@@ -16,6 +16,6 @@ Formado em Ciências Econômicas, atualmente estudo Data Science para transiçã
 
 ## Projetos:
 
-* **Análise - Airbnb na Cidade de São Paulo:** Em construção
+* **Análise - Airbnb na Cidade de São Paulo: https://github.com/bfalsarella/estudos/blob/main/Analisando_os_Dados_do_Airbnb_Rio_de_Janeiro.ipynb
 
 ---
